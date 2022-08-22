@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Xamarin.RGB</name>
+    </assembly>
+    <members>
+        <member name="P:Xamarin.RGB.IColoured.Speed">
+            <summary>
+            Speed of colour changing in milliseconds.
+            </summary>
+        </member>
+        <member name="P:Xamarin.RGB.IColoured.Hue">
+            <summary>
+            Boolean regarding whether the hue of the color should change.
+            </summary>
+        </member>
+        <member name="P:Xamarin.RGB.IColoured.Saturation">
+            <summary>
+            Boolean regarding whether the saturation of the color should change.
+            </summary>
+        </member>
+        <member name="P:Xamarin.RGB.IColoured.Luminosity">
+            <summary>
+            Boolean regarding whether the luminosity of the color should change.
+            </summary>
+        </member>
+        <member name="P:Xamarin.RGB.IColoured.Alpha">
+            <summary>
+            Boolean regarding whether the alpha value of the color should change.
+            </summary>
+        </member>
+        <member name="P:Xamarin.RGB.IColoured.Style">
+            <summary>
+            The way the colour values should change.
+            </summary>
+        </member>
+    </members>
+</doc>
